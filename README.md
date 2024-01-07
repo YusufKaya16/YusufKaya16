@@ -27,7 +27,7 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufKaya16&layout=compact&theme=dark" alt=YusufKaya16 />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+
 <div align="center">
 <a href="https://github.com/YusufKaya16">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YusufKaya16&theme=2077" height="180em" />
